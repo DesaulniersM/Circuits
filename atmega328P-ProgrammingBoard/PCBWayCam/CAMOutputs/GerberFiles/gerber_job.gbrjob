@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-06-10T00:57:40Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MainSCH"
+        },
+        "Owner": "Matthew Desaulniers <mdesaulniersm@gmail.com>",
+        "Size": {
+            "X": 70.79,
+            "Y": 41.9
+        }
+    }
+}
